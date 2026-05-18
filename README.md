@@ -8,6 +8,8 @@
 
 ╰┈➤ Currently learning: rust and haskell
 
+╰┈➤ Blog: [saved-by-the-bell-state](https://zhav0ronok.github.io/saved-by-the-bell-state/) (WIP!)
+
 Projects coming soon...
 
 ⚬──────────✧──────────⚬  
