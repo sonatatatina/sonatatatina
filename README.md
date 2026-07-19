@@ -2,11 +2,11 @@
 
 ⚬──────────✧──────────⚬  
 
-╰┈➤ 2nd year physics undergraduate @ Cornell with an interest in QC
+╰┈➤ 3rd year physics undergraduate @ Cornell with an interest in QC
 
-╰┈➤ Linux hobbyist 
+╰┈➤ Linux hobbyist and open source nerd
 
-╰┈➤ Currently learning: rust and haskell
+╰┈➤ Eng/Рус
 
 ╰┈➤ Blog: [saved-by-the-bell-state](https://zhav0ronok.github.io/saved-by-the-bell-state/) (WIP!)
 
